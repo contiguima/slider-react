@@ -1,0 +1,23 @@
+.slider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.prev,
+.next {
+  background: rgb(219, 219, 219);
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.prev {
+  margin-right: 1rem;
+}
+
+.next {
+  margin-left: 1rem;
+}
