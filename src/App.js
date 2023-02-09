@@ -26,7 +26,7 @@ const proyectosArr = [
     repo="https://github.com/contiguima/LegalVerseVf"
     deploy="https://legalverse.ar/"
     imagen="https://i.pinimg.com/564x/78/4e/b0/784eb01df305e91f1eecccab2581627d.jpg"
-  />
+  />,
 ];
 
 export default function App() {
