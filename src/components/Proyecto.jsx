@@ -12,8 +12,13 @@ function Proyecto(props) {
         <h3>{props.nombre}</h3>
         <p>Stack: {props.stack}</p>
         <p>{props.texto}</p>
-        <a href={props.repo}>Ver Repositorio</a> <br />
-        <a href={props.deploy}>Ver Deploy</a>
+        <a target="_blank" href={props.repo}>
+          Ver Repositorio
+        </a>{" "}
+        <br />
+        <a target="_blank " href={props.deploy}>
+          Ver Deploy
+        </a>
       </div>
     </div>
   );
