@@ -1,2 +1,2 @@
 # slider-react
-Created with CodeSandbox
+Slider de proyectos con React y CSS
